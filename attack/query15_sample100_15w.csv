@@ -1,0 +1,19 @@
+keyword, rlen,files
+T1,5,{"email_00010_phillip.allen_to_buck.buckner.txt", "email_00047_phillip.allen_to_stagecoachmama.txt", "email_00059_phillip.allen_to_ina.rangel.txt", "email_00065_phillip.allen_to_ina.rangel.txt", "email_00070_phillip.allen_to_ina.rangel.txt"}
+T2,12,{"email_00023_phillip.allen_to_lkuch.txt", "email_00024_phillip.allen_to_jeffrey.hodge.txt", "email_00028_phillip.allen_to_rlehmann.txt", "email_00032_phillip.allen_to_jsmith.txt", "email_00040_phillip.allen_to_cbpres.txt", "/email_00041_phillip.allen_to_pallen70.txt", "email_00051_phillip.allen_to_keith.holst.txt", "email_00057_phillip.allen_to_pallen70.txt", "email_00059_phillip.allen_to_ina.rangel.txt", "email_00065_phillip.allen_to_ina.rangel.txt", "email_00070_phillip.allen_to_ina.rangel.txt", "email_00091_phillip.allen_to_stagecoachmama.txt"}
+T3,6,{"", "", "", "", "", "", "", "", "", "", "", "", "", "", "","", "", "" }
+T4,7,{"", "", "", "", "", "", "", "", "", "", "", "", "", "", "","", "", "" }
+T5,13,{"", "", "", "", "", "", "", "", "", "", "", "", "", "", "","", "", "" }
+T6,11,{"", "", "", "", "", "", "", "", "", "", "", "", "", "", "","", "", "" }
+T7,4,{"email_00061_phillip.allen_to_ina.rangel.txt", "email_00065_phillip.allen_to_ina.rangel.txt", "email_00070_phillip.allen_to_ina.rangel.txt", "email_00074_phillip.allen_to_muller.txt"}
+T8,8,{"", "", "", "", "", "", "", "", "", "", "", "", "", "", "","", "", "" }
+T9,16,{"", "", "", "", "", "", "", "", "", "", "", "", "", "", "","", "", "" }
+T10,15,{"", "", "", "", "", "", "", "", "", "", "", "", "", "", "","", "", "" }
+T11,39,{"", "", "", "", "", "", "", "", "", "", "", "", "", "", "","", "", "" }
+T12,10,{"", "", "", "", "", "", "", "", "", "", "", "", "", "", "","", "", "" }
+T13,12,{"email_00018_phillip.allen_to_pallen70.txt", "email_00032_phillip.allen_to_jsmith.txt", "email_00037_phillip.allen_to_kathy.moore.txt", "email_00041_phillip.allen_to_pallen70.txt", "email_00051_phillip.allen_to_keith.holst.txt", "email_00056_phillip.allen_to_pallen70.txt", "email_00057_phillip.allen_to_pallen70.txt", "email_00077_phillip.allen_to_mark.txt", "email_00087_phillip.allen_to_stagecoachmama.txt", "email_00094_phillip.allen_to_pallen70.txt", "email_00095_phillip.allen_to_pallen70.txt", "email_00096_phillip.allen_to_pallen70.txt"}
+T14,23,{}
+T15,15,{"", "", "", "", "", "", "", "", "", "", "", "", "", "", "","", "", "" }
+T16,4,{"email_00017_phillip.allen_to_tim.heizenrader.txt", "email_00037_phillip.allen_to_kathy.moore.txt", "email_00061_phillip.allen_to_ina.rangel.txt", "email_00079_phillip.allen_to_mark.txt"}
+T17,12,{"email_00012_phillip.allen_to_keith.holst.txt", "email_00013_phillip.allen_to_keith.holst.txt", "email_00023_phillip.allen_to_lkuch.txt", "email_00024_phillip.allen_to_jeffrey.hodge.txt", "email_00025_phillip.allen_to_kholst.txt", "email_00026_phillip.allen_to_pallen70.txt", "email_00041_phillip.allen_to_pallen70.txt", "email_00051_phillip.allen_to_keith.holst.txt", "email_00057_phillip.allen_to_pallen70.txt", "email_00065_phillip.allen_to_ina.rangel.txt", "email_00070_phillip.allen_to_ina.rangel.txt", "email_00097_phillip.allen_to_mac.d.hargrove.txt"}
+T18,12,{"email_00012_phillip.allen_to_keith.holst.txt", "email_00013_phillip.allen_to_keith.holst.txt", "email_00021_phillip.allen_to_stouchstone.txt", "email_00025_phillip.allen_to_kholst.txt", "email_00026_phillip.allen_to_pallen70.txt", "email_00033_phillip.allen_to_christopher.calger.txt", "/email_00041_phillip.allen_to_pallen70.txt", "email_00051_phillip.allen_to_keith.holst.txt", "email_00057_phillip.allen_to_pallen70.txt", "email_00065_phillip.allen_to_ina.rangel.txt", "email_00070_phillip.allen_to_ina.rangel.txt", "email_00074_phillip.allen_to_muller.txt"}
